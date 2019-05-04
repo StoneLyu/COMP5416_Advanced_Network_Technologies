@@ -15,10 +15,10 @@ This repo contains two assignments:
 
 2. The solutions of Queueing Theory (Random Process) and Network Optimization (A Math Approach)
     1. Queueing Theory
-        Find the stationary distribution of an M/M/2/6 queue where $\lambda = 1, \mu = 2$.
-
+        * Find the stationary distribution of an M/M/2/6 queue where $\lambda = 1, \mu = 2$.   
         you can find the code of M/M/2/6 [here](./Assignment_Queueing_Optimization/MM26.py)
 
+        * Find the stationary distribution of an M/M/5/10 queue where $\lambda = 1, \mu = 1$.  
         you can find the code of M/M/5/10 [here](./Assignment_Queueing_Optimization/MM510.py)
 
     2. Network Optimization
